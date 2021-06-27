@@ -1,6 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Flow is repository to test gitflow workflow.
+Here we will test the workflow by developing simple springboot application.
 
 ### What is this repository for? ###
 
